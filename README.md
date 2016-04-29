@@ -2,3 +2,4 @@
 # ‚Í‚¶‚ß‚É
 
   - feature-A
+  - fix-B
